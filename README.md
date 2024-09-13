@@ -12,10 +12,15 @@ Runs automatically every day at 1 AM
 The types of reports we could generate include (but are not limited to):
 
 Sales performance analysis
+
 Customer segmentation
+
 Product performance
+
 Production efficiency
+
 Inventory turnover
+
 Financial health indicators
 
 Most Useful Information for a Small Manufacturing Business:
