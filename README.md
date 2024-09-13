@@ -23,6 +23,7 @@ Inventory turnover
 
 Financial health indicators
 
+
 **Most Useful Information for a Small Manufacturing Business:**
 
 Sales Funnel Analysis: Track leads, opportunities, and closed deals.
