@@ -3,9 +3,12 @@ Code snippets for Odoo ETL
 
 The script(s) do the following:
 
-Connects to your Odoo instance
+Connects to the Odoo instance
+
 Extracts data from specified models
-Stores the data in a local SQLite database (you can change this to another database system if needed)
+
+Stores the data in  SQLite database (I will change this to store on a LAMP server I already have runningin my lab)
+
 Runs automatically every day at 1 AM
 
 
